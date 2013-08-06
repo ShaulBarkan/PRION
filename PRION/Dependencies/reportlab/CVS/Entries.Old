@@ -1,0 +1,20 @@
+D/demos////
+D/docs////
+D/extensions////
+D/fonts////
+D/graphics////
+D/lib////
+D/pdfbase////
+D/pdfgen////
+D/platypus////
+D/test////
+D/tools////
+/MANIFEST.in/1.1/Thu May 24 16:44:54 2007//
+/README/1.1/Mon Jun 16 01:00:26 2008//
+/__init__.py/1.1/Mon Jun 16 01:00:26 2008//
+/__init__.pyc/1.1/Thu Mar 13 00:44:18 2008/-kb/
+/changes/1.1/Thu May 24 16:44:54 2007//
+/license.txt/1.1/Thu May 24 16:44:36 2007//
+/rl_config.py/1.1/Mon Jun 16 01:00:26 2008//
+/rl_config.pyc/1.1/Thu Mar 13 00:44:18 2008/-kb/
+/setup.py/1.1/Mon Jun 16 01:00:26 2008//

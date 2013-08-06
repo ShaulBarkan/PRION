@@ -1,0 +1,14 @@
+D/barcode///////
+D/charts///////
+D/samples///////
+D/widgets///////
+/renderSVG.py////*///
+/renderbase.py////*///
+/testdrawings.py////*///
+/testshapes.py////*///
+/__init__.py////*///
+/renderPDF.py////*///
+/renderPM.py////*///
+/renderPS.py////*///
+/shapes.py////*///
+/widgetbase.py////*///
